@@ -1,1 +1,7 @@
-#Ivan Derevyanko
+# Ivan Derevyanko
+
+# Skills
+
+* HTML
+* CSS
+* JavaScript
